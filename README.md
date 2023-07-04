@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Poorani-27
 - 👀 I’m interested in Web Development
-- 
 - 📫 How to reach me tpoorani2002@gmail.com
 
 <!---
