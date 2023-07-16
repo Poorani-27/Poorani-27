@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @Poorani-27
-- 👀 I’m interested in Web Development
-- 📫 How to reach me tpoorani2002@gmail.com
+# **POORANI TAMILVASAN**
+## About Me
+I am **POORANI**, a passionate and dedicated junior Full Stack Developer specializing in the**MERN**(MongoDB, Express.js, React.js, Node.js) stack. With a strong foundation in web development and a keen interest in building dynamic and responsive applications, I strive to create high-quality software solutions that deliver a seamless user experience. I am experienced in version control system like Git, enabling seamless collaboration with team members. Detail-oriented and adept at problem-solving, with a strong ability to work in collaborative environments. I am committed to continuous learning and keeping up with the latest industry trends and technologies.
 
-<!---
-Poorani-27/Poorani-27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills
+As a MERN stack developer, my skillset includes:
+* Frontend: HTML5, CSS3, JavaScript, React.js
+* Backend: Node.js, Express.js
+* Database: MongoDB
+## Tools
+I use various tools to enhance my development process, including:
+* Visual Studio Code (VS Code)
+* Git
+* npm (Node Package Manager)
+* Webpack
+## Connect with Me
+* GitHub: https://github.com/Poorani-27
+* LinkedIn: https://www.linkedin.com/in/poorani-792a50223/
+* WhatsApp: https://wa.me/8668080031
