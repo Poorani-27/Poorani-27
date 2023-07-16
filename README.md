@@ -14,6 +14,6 @@ I use various tools to enhance my development process, including:
 * npm (Node Package Manager)
 * Webpack
 ## Connect with Me
-* GitHub: https://github.com/Poorani-27
+* Email: tpoorani2002@gmail.com
 * LinkedIn: https://www.linkedin.com/in/poorani-792a50223/
 * WhatsApp: https://wa.me/8668080031
