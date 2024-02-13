@@ -1,6 +1,7 @@
-# <h1 align="center">Hello Everyone👋</h1>
-![](https://github.com/Poorani-27/Poorani-27/blob/main/cover%20image.png)
-> ## <h2 align="center"> "The expert in anything was once a beginner." - Helen Hayes </h2></p>     
+![](https://github.com/Poorani-27/Poorani-27/blob/main/cover%20image.png
+<h1 align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Embed+code&weight=600&pause=1000&color=0013F7&random=false&width=435&lines=Hi+There!+I'm+POORANI)](https://git.io/typing-svg)
+
 
 ## About Me
 👋 I'm <b> POORANI T </b>, a final year Computer Science Engineering student with a passion for coding and creating innovative solutions. 💻
