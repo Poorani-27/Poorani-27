@@ -3,7 +3,7 @@
 > ## <h2 align="center"> "The expert in anything was once a beginner." - Helen Hayes </h2></p>     
 
 ## About Me
-👋 Hello World! I'm <b> POORANI T </b>, a final year Computer Science Engineering student with a passion for coding and creating innovative solutions. 💻
+👋 I'm <b> POORANI T </b>, a final year Computer Science Engineering student with a passion for coding and creating innovative solutions. 💻
 
 🎓 Currently on the exciting journey towards earning my degree, I've honed my skills in Python and front-end technologies like HTML, CSS, and JavaScript. 🚀
 
