@@ -28,6 +28,11 @@
 <b>Together, let's code the future! 🚀 </b>
 
 ## Connect with Me
+<p align = center> 
+<a href = https://wa.me/8668080031><img src = https://github.com/Poorani-27/Poorani-27/blob/main/icons8-whatsapp.gif></a>
+
+
+</p>
 * Email: tpoorani2002@gmail.com
 * LinkedIn: https://www.linkedin.com/in/poorani-792a50223/
 * WhatsApp: https://wa.me/8668080031
