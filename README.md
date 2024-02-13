@@ -44,3 +44,6 @@
 |![poorani-27's Streak](https://github-readme-streak-stats.herokuapp.com/?user=poorani-27&theme=default&hide_border=true)| ![poorani-27's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poorani-27&theme=default&show_icons=true&hide_border=true&layout=compact)|
 | --- | --- |
 
+<img src="https://github.com/Poorani-27/Poorani-27/blob/main/github-user-contribution.svg" alt="Cover Image" width="100%">
+
+
