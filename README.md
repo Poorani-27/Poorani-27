@@ -1,10 +1,17 @@
-![](https://github.com/Poorani-27/Poorani-27/blob/main/cover%20image.png
+<img src="https://github.com/Poorani-27/Poorani-27/blob/main/cover%20image.png" alt="Cover Image" width="100%">
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Embed+code&weight=1000&pause=1000&color=0013F7&random=false&width=700&lines=Hi+There!+I'm+POORANI+,+a+passionate+software+developer)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Embed+code&weight=1000&pause=1000&color=0013F7&random=false&width=750&lines=Hi+There!+I'm+POORANI+TAMILVASAN+,+a+passionate+software+developer" alt="Typing SVG">
+  </a>
+</p>
+
 
 ## About Me
-👋 I'm <b> POORANI T </b>, a final year Computer Science Engineering student with a passion for coding and creating innovative solutions. 💻
+
+👋 Rsult Oriented final year Computer Science Engineering student with a passion for coding and creating innovative solutions. 💻
 
 🎓 Currently on the exciting journey towards earning my degree, I've honed my skills in Python and front-end technologies like HTML, CSS, and JavaScript. 🚀
 
@@ -24,3 +31,4 @@
 * Email: tpoorani2002@gmail.com
 * LinkedIn: https://www.linkedin.com/in/poorani-792a50223/
 * WhatsApp: https://wa.me/8668080031
+
