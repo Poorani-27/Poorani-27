@@ -41,6 +41,8 @@
 | ![Email Icon](https://github.com/Poorani-27/Poorani-27/blob/main/icons8-gmail.gif) |  Let's connect through Email! In the world of coding, an email is like a code review - it's an opportunity to provide feedback, offer suggestions, and ensure that our coding journey stays on the right track. Let's hit send on that email, where every word is a commit to building stronger coding partnerships and achieving our project goals! [Send Email](mailto:tpoorani2002@gmail.com) |
 | --- | --- |
 
+
+
 |![poorani-27's Streak](https://github-readme-streak-stats.herokuapp.com/?user=poorani-27&theme=default&hide_border=true)| ![poorani-27's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poorani-27&theme=default&show_icons=true&hide_border=true&layout=compact)|
 | --- | --- |
 
